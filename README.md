@@ -1,6 +1,7 @@
 Sentiment-Analysis-using facebook comments
 
 INSTALLATION REQUIRED 
-pip install streamlit
-pip install vaderSentiment
-pip install plotly
+
+1.pip install streamlit
+2.pip install vaderSentiment
+3.pip install plotly
